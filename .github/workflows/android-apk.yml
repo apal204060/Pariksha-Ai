@@ -32,7 +32,7 @@ jobs:
 
       - name: Install dependencies
         working-directory: app
-        run: npm install
+        run: npm instal
 
       - name: Build web app
         working-directory: app
@@ -48,7 +48,7 @@ jobs:
 
       - name: Build debug APK
         working-directory: app
-        run: |
+        run: npm install --legacy-peer-deps
           cd android
           chmod +x gradlew
           ./gradlew assembleDebug
