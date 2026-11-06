@@ -1,3 +1,4 @@
+Pariksha AI is an open-source, offline-first AI study and test-generation platform built for millions of competitive exam aspirants in India. It converts large bilingual (Hindi/English) study PDFs into interactive mock tests, provides AI teacher explanations, and tracks learning progress via PWA and Google Drive sync. It empowers underserved students with free, accessible AI-driven exam preparation tools.
 <div align="center">
 <img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
 </div>
